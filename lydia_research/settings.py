@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-a40*_7jrh00v-%7c2fcx4i7m$ys%qgyyp#kvo**f!x12r14&e$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://lydia-tutors.herokuapp.com']
+ALLOWED_HOSTS = ['lydia-tutors.herokuapp.com']
 
 
 # Application definition
